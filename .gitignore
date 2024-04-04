@@ -1,6 +1,7 @@
 dist/
 www/
 loader/
+pnpm-lock.yaml
 
 *~
 *.sw[mnpcod]
